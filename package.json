@@ -1,0 +1,19 @@
+{
+  "name": "open-project",
+  "version": "0.0.1",
+  "dependencies": {
+    "async": "^1.4.2",
+    "lodash": "^3.10.1",
+    "yargs": "^3.26.0"
+  },
+  "bin": {
+    "$#": "./src/index.js"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "mocha": "*"
+  }
+}
