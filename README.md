@@ -1,2 +1,2 @@
-My Boilerplate of GulpJS + Less + Angular  
-Babel in GulpJS, Server and Client Side. (Everywhere)
+Run Setups of CMD to startups projects as a global var
+Like: ```$# project-name```
